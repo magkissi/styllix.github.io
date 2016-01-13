@@ -876,3 +876,68 @@ video {
     text-align: center;
   }
 }
+
+
+.buy{
+  background-color:#FF8900 !important;
+}
+
+.buy:hover{
+  background-color:#C06700 !important;
+  border-color: #C06700 !important;
+}
+
+.signup{
+  background-color:#00c191 !important;
+}
+
+.signup:hover{
+  background-color:#007658 !important;
+}
+
+.talk{
+  font-weight: bold !important;
+  color: white !important;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.talk2{
+  font-weight: bold !important;
+  color: #404040 !important;
+  font-size: 20px;
+}
+
+#whatsapp{
+  width: 30px;
+  height: 30px;
+}
+
+#service-image{
+  margin-top: 50px !important;
+}
+
+#we-do-img{
+  margin-left: 20;
+}
+
+#ceo{
+  width: 200px;
+  height: 190px;
+  border-radius: 50%;
+  border: 1px solid #f4f4f4;
+}
+
+.svg-icons{
+  fill:white;
+}
+
+.price-heading{
+  color:#F3F3F3;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.price-list{
+  
+}

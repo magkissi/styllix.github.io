@@ -12,6 +12,10 @@
 
 }
 
+.red{
+  color: #ff6347;
+}
+
 [data-icon]:before {
   font-family: "nf" !important;
   content: attr(data-icon);
