@@ -939,5 +939,14 @@ video {
 }
 
 .price-list{
-  
+  font-weight: bold !important;
+  color: white !important;
+  font-size: 20px;
+}
+
+.ash{
+  background-color: #f6f6f7 !important;
+}
+.white{
+  background-color: white !important;
 }
