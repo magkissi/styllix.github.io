@@ -1,0 +1,109 @@
+.header-logo {
+  width: 300px !important;
+  margin-top: 20px;
+}
+
+.nav-logo {
+  width: 100px !important;
+  padding-bottom: 50px;
+  margin-top: -8px;
+}
+
+.how-icons {
+  height: 80px;
+}
+
+.prop-head {
+  font-size: 50px !important;
+  line-height: 50px;
+  color: #f2f2f2 !important;
+}
+
+.prop-sub {
+  color: #e5e5e5 !important;
+  margin-top: 0px;
+  line-height: 35px;
+  font-weight: 100 !important;
+  font-size: 25px;
+}
+
+/*button*/
+.action {
+  width: 50%;
+  background-color:#e23158 !important;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 25px;
+  color: #e5e5e5 !important;
+  border-radius: 100px;
+  font-weight: 3000;
+}
+
+.action:hover{
+  background-color: #F1728F !important;
+  color: #e5e5e5 !important;
+}
+
+.action2 {
+  width: 50%;
+  background-color:  #5E3D9F;
+  height: 50px;
+  margin-top: 20px;
+  font-size: 25px;
+  color: #e5e5e5 !important;
+  border-radius: 100px;
+  font-weight: 3000;
+}
+
+.action2:hover{
+  background-color: #F1728F;
+  color: #e5e5e5;
+}
+
+.header-content {
+  margin-top: 100px;
+}
+
+.arrow {
+  margin-top: 0px !important;
+}
+
+.app-btn{
+  width: 120px;
+}
+
+.glass{
+  width:175px;
+  height:175px;
+  position:absolute;
+  border-radius:50%;
+  cursor:crosshair;
+  box-shadow:0 0 0 7px rgba(255,255,255,0.85),0 0 7px 7px rgba(0,0,0,0.25),inset 0 0 40px 2px rgba(0,0,0,0.25);display:none}
+
+.hair {
+  width: 55px;
+  margin-right: 5px;
+}
+
+.makeup {
+  width: 45px;
+  margin-right: 10px;
+}
+
+.manicure {
+  width: 45px;
+  margin-right: 10px;
+}
+
+.pedicure {
+  width: 38px;
+  margin-right: 10px;
+}
+
+.face {
+  width: 700px;
+}
+
+#footer-text{
+  color: white;
+}
