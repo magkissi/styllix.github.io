@@ -115,12 +115,14 @@
   }
   .prop-sub {
     font-size: 20px !important;
+    margin-top: -20px;
   }
   .header-logo {
     width: 200px !important;
-    margin-top: -20px;
+    margin-top: -90px;
   }
   .app-btn {
-    width: 80px !important;
+    width: 90px !important;
+    margin-top: -5px;
   }
 }
