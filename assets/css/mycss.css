@@ -107,3 +107,19 @@
 #footer-text{
   color: white;
 }
+
+@media (max-width: 760px){
+  .prop-head {
+    font-size: 30px !important;
+  }
+  .prop-sub {
+    font-size: 20px !important;
+  }
+  .header-logo {
+    width: 200px !important;
+    margin-top: -20px;
+  }
+  .app-btn {
+    width: 80px !important;
+  }
+}
